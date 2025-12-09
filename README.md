@@ -1,12 +1,11 @@
 # ft_printf
-Reimplementation of the printf function in C, developed as part of the 42 curriculum, capable of handling formatted output with multiple conversions, flags, width, and precision.
+[![Score](https://img.shields.io/badge/Score-125/100-blue)](https://profile-v3.intra.42.fr/users/danzamor)
 
+Reimplementation of the printf function in C, developed as part of the 42 curriculum, capable of handling formatted output with multiple conversions, flags, width, and precision.
 ---
 
 ## Table of Contents
 - [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Bonus Part](#bonus-part)
 - [Author](#author)
@@ -15,22 +14,6 @@ Reimplementation of the printf function in C, developed as part of the 42 curric
 
 ## Overview
 ft_printf is a reimplementation of the standard C printf function. It provides formatted output of text, numbers, and pointers, supporting multiple conversion specifiers, flags, width, and precision. This project was developed as part of the 42 curriculum to strengthen understanding of variadic functions, C standard library functions, and low-level string formatting.
-
-## Features
-ft_printf includes the following core functionalities:
-- Supported conversions: %c, %s, %p, %d, %i, %u, %x, %X, and %%
-- Supported flags: 0, -, +, #, and space ( )
-- Field minimum width
-- Precision control (. flag)
-- Variadic function usage
-
-## Project Structure
-The repository is organized as follows:
-- src: Source files for the mandatory part
-- inc: Header files for the mandatory part
-- bonus_src: Source files for the bonus part
-- bonus_inc: Header files for the bonus part
-- libft: Auxiliary functions in the library
 
 ## Usage
 To compile and use ft_printf, run:
