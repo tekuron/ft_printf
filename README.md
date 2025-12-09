@@ -1,7 +1,8 @@
 # ft_printf
 [![Score](https://img.shields.io/badge/Score-125/100-blue)](https://profile-v3.intra.42.fr/users/danzamor)
 
-Reimplementation of the printf function in C, developed as part of the 42 curriculum, capable of handling formatted output with multiple conversions, flags, width, and precision.
+<p>Reimplementation of the printf function in C, developed as part of the 42 curriculum, capable of handling formatted output with multiple conversions, flags, width, and precision.</p>
+
 ---
 
 ## Table of Contents
